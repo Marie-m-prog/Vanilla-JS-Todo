@@ -3,7 +3,11 @@ A simple todo-list application written as a SPA in vanilla js.
 
 ## How to run the application
 
-Install dependencies with 
+View the site running on Netlify: 
+https://clever-murdock-c4f1e4.netlify.app/
+
+or: 
+Clone the depository to your local computer and install dependencies with 
 
 `npm install`
 
