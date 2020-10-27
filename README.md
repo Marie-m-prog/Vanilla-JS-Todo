@@ -14,4 +14,4 @@ then write
 
 `npm run dev`
 
-to see the application running on localhost 8080.
+to see the application running on localhost 8080
